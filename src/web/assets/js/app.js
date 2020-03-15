@@ -1,0 +1,1 @@
+const a=o=>100*o;console.log(a(2));
