@@ -26,6 +26,7 @@ services:
       - ./src/web:/var/www/html/web
       - ./src/.env:/var/www/html/.env
     environment:
+      PHP_REVALIDATE: 1
       ENVIRONMENT: dev
       DB_DRIVER: mysql
       DB_SERVER: database
