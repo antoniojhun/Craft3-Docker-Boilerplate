@@ -59,5 +59,9 @@ Change default settings in docker-compose.yml to fit however you like
 Hat tip to Chris Lee(https://github.com/chrisleekr), Matt Gray(https://github.com/mattgrayisok/), Andrew Welch(https://github.com/nystudio107/)
 
 ### To Do
-
-Gulp tasks
+- [ ] Update PHP to 7.4
+- [ ] Update composer.json - Craft, PHP env
+- [ ] Update Craft to 3.7
+- [ ] Update compatible Craft Plugins for Craft 3.7
+- [ ] Update Gulp
+- [ ] Scope a project using Craft 4 with Vite :tada:
