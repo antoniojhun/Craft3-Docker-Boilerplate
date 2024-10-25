@@ -115,7 +115,7 @@
         "lazysizes": "^5.2.2",
         "normalize.css": "^5.0.0",
         "picturefill": "^3.0.2",
-        "vue": "^2.6.11",
+        "vue": "^3.5.12",
         "vue-resource": "^1.0.3"
     },
     "devDependencies": {
